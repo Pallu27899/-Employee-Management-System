@@ -22,14 +22,22 @@ ________________________________________________________________________________
 
 # Employee Data
 
+
+Employee data refers to all information collected by your company about its employees. It includes but is not limited to: basic identifying information (your employees name, phone no, address, salary) as well as in-depth information about workplace performance.
+
 <img src="Image/Home.jpg">
 _____________________________________________________________________________________________________________________________________________________
+
 # Add Data
+
+Add Employee Data
 
 <img src="Image/ADDEMP.jpg">
 ______________________________________________________________________________________________________________________________________________________
 
 # Update Data 
+
+Update And Delete Employee Data 
 
 <img src="Image/Edit.jpg">
 
