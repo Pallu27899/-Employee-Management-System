@@ -1,7 +1,15 @@
 # -Employee-Management-System
 
 
-This project is used for computerizing employee management work in offices, schools, etc. The software keeps record of employee's email, phone no,  and salary etc. The software is capable of easy storage of information related to employee through database.
+This project is used for computerizing employee management work in offices, schools, etc. The software keeps record of employee's email, phone no,  and salary etc. The software is capable of easy storage of information related to employee through database.  
+
+
+Create RESTfull API using any of the bellow technology
+
+*** API Link (http://localhost:8083)***
+
+Java 8 with Spring Boot Or Node and ExpressJs
+
 
 I have created a simple employee management system web application using Spring Boot, Spring MVC, Thymeleaf, Spring Data JPA and MySQL database.
 _______________________________________________________________________________________________________________________________________________________________________
